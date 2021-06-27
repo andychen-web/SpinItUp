@@ -14,7 +14,10 @@
 
 **協作人數:**  3人
 
-Here is the Final Game Project for _Creative Coding_, which is a introductory prgramming course 
-taught by Prof. Jones Yu, in the Department of Design.
+**Description:**
 
-Special thanks to my supportive team members 曾名菘 陸品維
+Here is the Final Game Project for _Creative Coding_ <br>
+which is a introductory prgramming course for senior undergraduates<br>
+taught by Prof. Jones Yu, from the Department of Design.
+
+Special thanks to my supportive team members 曾名菘 陸品維🙇‍♂️
